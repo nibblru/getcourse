@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://gitlab.com/username/getcourse-downloader.git
+   git clone https://gitlab.com/nibblru/getcourse-downloader.git
 
 
 
